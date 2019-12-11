@@ -1,3 +1,3 @@
-# React Error, Look like a challange
+# React Error, Looks like a challange
 
-# but it's solved @dergish
+# but it's solved by @dergish
